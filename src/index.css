@@ -24,7 +24,10 @@ body {
 }
 
 .content {
-    display: flex;
+    width: 75%;
+    float: right;
+    position: relative;
+    padding-left: 30px;
 }
 
 .content main:first-child {
