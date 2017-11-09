@@ -20,11 +20,6 @@ custom - media screen and (max-width: 1366px) Start
 		padding: 0 14px;
 	}
 }
-@media (max-width: 991px){
-	.hello_menu_fixed_main_wrapper{
-		display:none !important;
-	}
-}
 @media screen and (max-width: 1199px) {
 	.hello_logo{
 		display:none;

@@ -6,8 +6,11 @@ function Sidebar() {
     return (
         <div className="fixed-left-side-body">
             <div className="profile">
+
+                <h1 className="profile__site-name">Alisultanov.ru</h1>
+
                 <div className="profile-image center-align">
-                    <img src="https://pp.userapi.com/c627127/v627127752/15d54/xpEMbTga8sA.jpg" alt="Image"/>
+                    <img src="img/shamil.jpg" alt="Image"/>
                 </div>
 
                 <div className="profile-name center-align">
@@ -64,13 +67,6 @@ function Sidebar() {
                         satisfied they
                         are with our services. So, what are you waiting for?
                     </p>
-                </div>
-
-                <div className="cv-btn">
-                    <a href="#" className="custom-btn waves-effect waves-light">
-                        <i className="fa fa-download" aria-hidden="true"/>
-                        download cv
-                    </a>
                 </div>
             </div>
         </div>
