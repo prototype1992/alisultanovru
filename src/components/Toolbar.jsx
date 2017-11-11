@@ -11,10 +11,13 @@ function Toolbar({ user }) {
                     <div className="topmenu hello_main_navigation hello_single_index_menu2">
                         <ul id="nav-mobile" className="topmenu__list main-nav-ul">
                             <li className='topmenu__item'>
-                                <NavLink exact to="/" activeClassName='top-menu-active' className="topmenu__link waves-effect default">Обо мне</NavLink>
+                                <NavLink exact to="/" activeClassName='top-menu-active' className="topmenu__link waves-effect default">Главная</NavLink>
                             </li>
                             <li className='topmenu__item'>
                                 <NavLink exact to="/skill" activeClassName='top-menu-active' className="topmenu__link waves-effect default">Навыки</NavLink>
+                            </li>
+                            <li className='topmenu__item'>
+                                <NavLink exact to="/services" activeClassName='top-menu-active' className="topmenu__link waves-effect default">Услуги</NavLink>
                             </li>
                             <li className='topmenu__item'>
                                 <NavLink exact to="/education" activeClassName='top-menu-active' className="topmenu__link waves-effect default">Образование</NavLink>
@@ -28,9 +31,9 @@ function Toolbar({ user }) {
                             <li className='topmenu__item'>
                                 <NavLink exact to="/workexperience" activeClassName='top-menu-active' className="topmenu__link waves-effect default">Опыт работы</NavLink>
                             </li>
-                            <li className='topmenu__item'>
-                                <NavLink exact to="/blog" activeClassName='top-menu-active' className="topmenu__link waves-effect default">Блог</NavLink>
-                            </li>
+                            {/*<li className='topmenu__item'>*/}
+                                {/*<NavLink exact to="/blog" activeClassName='top-menu-active' className="topmenu__link waves-effect default">Блог</NavLink>*/}
+                            {/*</li>*/}
                             <li className='topmenu__item'>
                                 <NavLink exact to="/contacts" activeClassName='top-menu-active' className="topmenu__link waves-effect default">Контакты</NavLink>
                             </li>

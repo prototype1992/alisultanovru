@@ -8,17 +8,8 @@ function Portfolio() {
             <div className="Section-title">
                 <h2>
                     <i className="fa fa-briefcase" aria-hidden="true"/>
-                    Мое портфолио
+                    Портфолио
                 </h2>
-                <span>My Portfolio</span>
-                <p>
-                    Proin gravida nibh vel velit quet. Aenean sollicitudin, lorem quis bibendum auctor, nisi
-                    elit consequat
-                    ipsum, nec sagittis sem nibh id elit. Duis sed odio sit
-                    amet nibh vulpuate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus
-                    a odio
-                    tincidunt.
-                </p>
             </div>
 
             <div className="portfolio-area">
@@ -32,60 +23,60 @@ function Portfolio() {
                 </div>
 
                 <div className="grid">
-                    <div className="element-item transition metal" data-category="transition">
+                    <div className="element-item transition metal">
                         <div className="ei-child">
-                            {/*<img src="assets/images/portfolio/img-1.jpg" alt="Image"/>*/}
-                            <a href="#" className="more">
-                                <i className="fa fa-plus" aria-hidden="true"/>
+                            <img src="assets/images/portfolio/img-1.jpg" alt="img-1"/>
+                            <a href="" className="more">
+                                <i className="fa fa-plus"/>
                             </a>
                         </div>
                     </div>
-                    <div className="element-item metalloid" data-category="metalloid">
+                    <div className="element-item metalloid">
                         <div className="ei-child">
-                            {/*<img src="assets/images/portfolio/img-2.jpg" alt="Image"/>*/}
-                            <a href="#" className="more">
-                                <i className="fa fa-plus" aria-hidden="true"/>
+                            <img src="assets/images/portfolio/img-2.jpg" alt="img-2"/>
+                            <a href="" className="more">
+                                <i className="fa fa-plus"/>
                             </a>
                         </div>
                     </div>
-                    <div className="element-item post-transition metal" data-category="post-transition">
+                    <div className="element-item post-transition metal">
                         <div className="ei-child">
-                            {/*<img src="assets/images/portfolio/img-3.jpg" alt="Image"/>*/}
-                            <a href="#" className="more">
-                                <i className="fa fa-plus" aria-hidden="true"/>
+                            <img src="assets/images/portfolio/img-3.jpg" alt="img-3"/>
+                            <a href="" className="more">
+                                <i className="fa fa-plus"/>
                             </a>
                         </div>
                     </div>
-                    <div className="element-item post-transition metal" data-category="post-transition">
+                    <div className="element-item post-transition metal">
                         <div className="ei-child">
-                            {/*<img src="assets/images/portfolio/img-4.jpg" alt="Image"/>*/}
-                            <a href="#" className="more">
-                                <i className="fa fa-plus" aria-hidden="true"/>
+                            <img src="assets/images/portfolio/img-4.jpg" alt="img-4"/>
+                            <a href="" className="more">
+                                <i className="fa fa-plus"/>
                             </a>
                         </div>
                     </div>
-                    <div className="element-item transition metal" data-category="transition">
+                    <div className="element-item transition metal">
                         <div className="ei-child">
-                            {/*<img src="assets/images/portfolio/img-5.jpg" alt="Image"/>*/}
-                            <a href="#" className="more">
-                                <i className="fa fa-plus" aria-hidden="true"/>
+                            <img src="assets/images/portfolio/img-5.jpg" alt="img-5"/>
+                            <a href="" className="more">
+                                <i className="fa fa-plus"/>
                             </a>
                         </div>
                     </div>
-                    <div className="element-item alkali metal" data-category="alkali">
+                    <div className="element-item alkali metal">
                         <div className="ei-child">
-                            {/*<img src="assets/images/portfolio/img-6.jpg" alt="Image"/>*/}
-                            <a href="#" className="more">
-                                <i className="fa fa-plus" aria-hidden="true"/>
+                            <img src="assets/images/portfolio/img-6.jpg" alt="img-6"/>
+                            <a href="" className="more">
+                                <i className="fa fa-plus"/>
                             </a>
                         </div>
                     </div>
                 </div>
 
-                <a href="#" className="custom-btn waves-effect waves-light">
-                    <i className="fa fa-refresh" aria-hidden="true"/>
-                    load more
-                </a>
+                {/*<a href="" className="custom-btn waves-effect waves-light">*/}
+                    {/*<i className="fa fa-refresh"/>*/}
+                    {/*load more*/}
+                {/*</a>*/}
             </div>
 
         </section>

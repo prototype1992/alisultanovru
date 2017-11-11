@@ -1,12 +1,12 @@
 import React from 'react';
 
-function MySkill() {
+function Services() {
     return (
         <section className="my-skill-section sec-p100-bg-bs mb-30 clearfix" id="skill">
             <div className="Section-title">
                 <h2>
                     <i className="fa fa-lightbulb-o" aria-hidden="true"/>
-                    Навыки
+                    Услуги
                 </h2>
             </div>
 
@@ -159,4 +159,4 @@ function MySkill() {
     );
 }
 
-export default MySkill;
+export default Services;

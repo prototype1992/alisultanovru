@@ -7,17 +7,8 @@ function Contacts() {
             <div className="Section-title">
                 <h2>
                     <i className="fa fa-envelope-o" aria-hidden="true"/>
-                    contact me
+                    Контакты
                 </h2>
-                <span>contact me</span>
-                <p>
-                    Proin gravida nibh vel velit quet. Aenean sollicitudin, lorem quis bibendum auctor, nisi
-                    elit consequat
-                    ipsum, nec sagittis sem nibh id elit. Duis sed odio sit
-                    amet nibh vulpuate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus
-                    a odio
-                    tincidunt.
-                </p>
             </div>
 
             <div className="row">
@@ -51,7 +42,7 @@ function Contacts() {
                             <h2 className="title mb-30">address</h2>
                             <div className="cont-numbers">
                                 <p>Street 110-B Kalani Bag, Dewas, M.P. INDIA</p>
-                                <p><a href="#" className="photoshop-color">https:example.com</a></p>
+                                <p><a href="" className="photoshop-color">https:example.com</a></p>
                             </div>
                         </div>
 
@@ -64,31 +55,30 @@ function Contacts() {
 
                         <form action="#">
 
-                            <h2 className="title mb-30">here me</h2>
+                            <h2 className="title mb-30">Напиши мне</h2>
 
                             <div className="input-field">
                                 <input id="first_name" type="text" className="validate"/>
-                                <label htmlFor="first_name">First Name</label>
+                                <label htmlFor="first_name">Имя</label>
                             </div>
 
                             <div className="input-field">
                                 <input id="email" type="email" className="validate"/>
-                                <label htmlFor="email" data-error="wrong" data-success="right">Email</label>
+                                <label htmlFor="email">Email</label>
                             </div>
 
                             <div className="input-field">
                                 <input id="subject" type="text" className="validate"/>
-                                <label htmlFor="subject">Subject</label>
+                                <label htmlFor="subject">Тема письма</label>
                             </div>
 
                             <div className="input-field">
                                 <textarea id="textarea1" className="materialize-textarea"/>
-                                <label htmlFor="textarea1">message</label>
+                                <label htmlFor="textarea1">Сообщение</label>
                             </div>
 
-                            <a href="#" className="custom-btn waves-effect">
-                                <i className="fa fa-envelope-o" aria-hidden="true"/>
-                                send
+                            <a href="" className="custom-btn waves-effect">
+                                <i className="fa fa-envelope-o"/>Отправить
                             </a>
 
                         </form>

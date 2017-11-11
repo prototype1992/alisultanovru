@@ -9,15 +9,6 @@ function Education() {
                     <i className="fa fa-graduation-cap" aria-hidden="true"/>
                     Образование
                 </h2>
-                <span>Образование</span>
-                <p>
-                    Proin gravida nibh vel velit quet. Aenean sollicitudin, lorem quis bibendum auctor, nisi
-                    elit consequat
-                    ipsum, nec sagittis sem nibh id elit. Duis sed odio sit
-                    amet nibh vulpuate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus
-                    a odio
-                    tincidunt.
-                </p>
             </div>
 
             <ul className="accordion collapsible" data-collapsible="accordion">

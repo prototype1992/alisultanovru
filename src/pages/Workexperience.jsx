@@ -7,17 +7,8 @@ function Workexperience() {
             <div className="Section-title">
                 <h2>
                     <i className="fa fa-pencil" aria-hidden="true"/>
-                    Work Experience
+                    Опыт работы
                 </h2>
-                <span>Work Experience</span>
-                <p>
-                    Proin gravida nibh vel velit quet. Aenean sollicitudin, lorem quis bibendum auctor, nisi
-                    elit consequat
-                    ipsum, nec sagittis sem nibh id elit. Duis sed odio sit
-                    amet nibh vulpuate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus
-                    a odio
-                    tincidunt.
-                </p>
             </div>
 
             <div className="row">
@@ -38,7 +29,7 @@ function Workexperience() {
                                         quality controlling of products submited by the global freelance
                                         authors.
                                     </p>
-                                    <a href="#" className="photoshop-color">https:example.com</a>
+                                    <a href="" className="photoshop-color">https:example.com</a>
                                 </div>
 
                                 <div className="experience-item exp2">
@@ -52,7 +43,7 @@ function Workexperience() {
                                         quality controlling of products submited by the global freelance
                                         authors.
                                     </p>
-                                    <a href="#" className="jquery-color">https:example.com</a>
+                                    <a href="" className="jquery-color">https:example.com</a>
                                 </div>
 
                                 <div className="experience-item exp3">
@@ -66,7 +57,7 @@ function Workexperience() {
                                         quality controlling of products submited by the global freelance
                                         authors.
                                     </p>
-                                    <a href="#" className="php-color">https:example.com</a>
+                                    <a href="" className="php-color">https:example.com</a>
                                 </div>
 
                                 <div className="experience-item exp1">
@@ -81,7 +72,7 @@ function Workexperience() {
                                         quality controlling of products submited by the global freelance
                                         authors.
                                     </p>
-                                    <a href="#" className="photoshop-color">https:example.com</a>
+                                    <a href="" className="photoshop-color">https:example.com</a>
                                 </div>
 
                                 <div className="experience-item exp2">
@@ -95,7 +86,7 @@ function Workexperience() {
                                         quality controlling of products submited by the global freelance
                                         authors.
                                     </p>
-                                    <a href="#" className="jquery-color">https:example.com</a>
+                                    <a href="" className="jquery-color">https:example.com</a>
                                 </div>
 
                                 <div className="experience-item exp3">
@@ -109,7 +100,7 @@ function Workexperience() {
                                         quality controlling of products submited by the global freelance
                                         authors.
                                     </p>
-                                    <a href="#" className="php-color">https:example.com</a>
+                                    <a href="" className="php-color">https:example.com</a>
                                 </div>
 
                             </div>
