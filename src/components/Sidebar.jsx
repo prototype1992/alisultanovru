@@ -18,44 +18,6 @@ function Sidebar() {
                     </p>
                 </div>
 
-                <ul className="social-btn">
-                    <li>
-                        <a href="">
-                            <i className="fa fa-facebook" aria-hidden="true"/>
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="">
-                            <i className="fa fa-twitter" aria-hidden="true"/>
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="">
-                            <i className="fa fa-behance" aria-hidden="true"/>
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="">
-                            <i className="fa fa-instagram" aria-hidden="true"/>
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="">
-                            <i className="fa fa-linkedin" aria-hidden="true"/>
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="">
-                            <i className="fa fa-dribbble" aria-hidden="true"/>
-                        </a>
-                    </li>
-                </ul>
-
                 <div className="discription">
                     <h2 className="title">what's in my mind</h2>
                     <p>

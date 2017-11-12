@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {Route} from 'react-router-dom';
 
 import Sidebar from './components/Sidebar';
-import Toolbar from './components/Toolbar';
+import Header from './components/Header';
 import Footer from "./components/Footer";
 
 import Home from './pages/Home';
@@ -20,7 +20,7 @@ class App extends Component {
                 <Sidebar/>
 
                 <div className="content">
-                    <Toolbar />
+                    <Header />
 
                     <div className="content__inner">
                         <Route exact path='/' component={Home} />
