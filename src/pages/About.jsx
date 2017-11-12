@@ -22,6 +22,9 @@ function About() {
                         <li className='about-skills__item'>JavaScript</li>
                         <li className='about-skills__item'>jQuery</li>
                         <li className='about-skills__item'>React</li>
+                        <li className='about-skills__item'>NodeJS</li>
+                        <li className='about-skills__item'>PHP</li>
+                        <li className='about-skills__item'>MySQL</li>
                         <li className='about-skills__item'>Git</li>
                         <li className='about-skills__item'>Adobe Photoshop</li>
                     </ul>
