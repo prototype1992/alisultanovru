@@ -3,11 +3,7 @@ import React from 'react';
 function About() {
     return (
         <section>
-            <div className="section-title">
-                <h2>
-                    Обо мне
-                </h2>
-            </div>
+            <h1 className="section-title">Обо мне</h1>
 
             <div className='section-block'>
                 <h3 className="section-block__title">Навыки</h3>

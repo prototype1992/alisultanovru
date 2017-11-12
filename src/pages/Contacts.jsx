@@ -3,9 +3,7 @@ import React from 'react';
 function Contacts() {
     return (
         <section>
-            <div className="section-title">
-                <h1>Контакты</h1>
-            </div>
+            <h1 className="section-title">Контакты</h1>
 
             <div className='contact-wrap'>
                 <div className="contact-left">

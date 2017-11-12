@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Merienda:400,700|Raleway:300,300i,400,400i,700,700i|Roboto:300,300i,400,400i,700,700i');
-
 body {
     font-family: 'Roboto', sans-serif;
 }
@@ -43,34 +41,13 @@ img {
 /* - Section-title start
 ================================================== */
 .section-title {
-    width: 100%;
-    display: table;
-    text-align: left;
-    position: relative;
     margin-bottom: 30px;
-}
-
-.section-title h2 {
-    z-index: 2;
     font-size: 40px;
     font-weight: 700;
     padding: 15px 0;
     line-height: 0.65;
     position: relative;
-    margin-bottom: 0;
     text-transform: capitalize;
-}
-
-.section-title span {
-    left: 0;
-    top: -40px;
-    z-index: -1;
-    color: #f7f7f7;
-    font-size: 90px;
-    font-weight: 700;
-    position: absolute;
-    text-transform: uppercase;
-    font-family: 'Roboto', sans-serif;
 }
 
 /* - 2 - global area end
@@ -82,11 +59,13 @@ img {
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
     margin-bottom: 30px;
 }
+
 .section-block__title {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 30px;
 }
+
 /*section-block end*/
 
 /* - 3 - fixed-left/right side body start
@@ -99,7 +78,7 @@ img {
     outline: 1px solid red;
 
     display: flex;
-    align-items: stretch;
+    align-items: flex-start;
     justify-content: space-between;
 }
 
@@ -215,6 +194,7 @@ img {
     background: #2196f3;
     color: #ffffff;
 }
+
 /*header end*/
 
 /*footer*/
@@ -231,3 +211,18 @@ img {
 
 /*footer end*/
 
+
+/*contact page*/
+.contact-wrap {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.contact-left {
+    width: 50%;
+}
+.contact-right {
+    width: 50%;
+}
+/*contact page end*/

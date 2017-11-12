@@ -3,9 +3,7 @@ import React from 'react';
 function Services() {
     return (
         <section>
-            <div className="section-title">
-                <h2>Услуги</h2>
-            </div>
+            <h1 className="section-title">Услуги</h1>
         </section>
     );
 }
