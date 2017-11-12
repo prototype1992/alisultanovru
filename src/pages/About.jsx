@@ -10,7 +10,7 @@ function About() {
             </div>
 
             <div className='section-block'>
-                <h2 className="section-block__title">Навыки</h2>
+                <h3 className="section-block__title">Навыки</h3>
 
                 <div className="">
                     Навыки
@@ -18,7 +18,7 @@ function About() {
             </div>
 
             <div className='section-block'>
-                <h2 className="section-block__title">Образование</h2>
+                <h3 className="section-block__title">Образование</h3>
 
                 <div className="">
                     Образование
@@ -26,7 +26,7 @@ function About() {
             </div>
 
             <div className='section-block'>
-                <h2 className="section-block__title">Опыт работы</h2>
+                <h3 className="section-block__title">Опыт работы</h3>
 
                 <div className="">
                     Опыт работы
