@@ -14,7 +14,7 @@ function Toolbar() {
                         <Topmenuitem to='/about'>Обо мне</Topmenuitem>
                     </li>
                     <li className='topmenu__item'>
-                        <Topmenuitem to='/services'>Услуги</Topmenuitem>
+                        <Topmenuitem to='/services'>Услуги и цены</Topmenuitem>
                     </li>
                     <li className='topmenu__item'>
                         <Topmenuitem to='/portfolio'>Портфолио</Topmenuitem>

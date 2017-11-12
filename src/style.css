@@ -1,14 +1,13 @@
 body {
     font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Raleway', sans-serif;
-    margin: 0;
-    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
     color: #111111;
     font-weight: normal;
-    text-transform: capitalize;
 }
 
 * {
@@ -22,61 +21,16 @@ body {
     color: #2f2f2f;
     font-size: 16px;
     line-height: 1.625;
-    letter-spacing: .5px;
     background-color: #f2f2f2;
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
 }
 
-a {
-    text-decoration: none;
-    display: inline-block;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-/* - Section-title start
-================================================== */
-.section-title {
-    margin-bottom: 30px;
-    font-size: 40px;
-    font-weight: 700;
-    padding: 15px 0;
-    line-height: 0.65;
-    position: relative;
-    text-transform: capitalize;
-}
-
-/* - 2 - global area end
-==================================================================================================== */
-
-/*section-block*/
-.section-block {
-    padding: 30px;
-    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
-    margin-bottom: 30px;
-}
-
-.section-block__title {
-    margin-top: 0;
-    margin-bottom: 0;
-    font-size: 30px;
-}
-
-/*section-block end*/
-
-/* - 3 - fixed-left/right side body start
-==================================================================================================== */
 .app {
     max-width: 1920px;
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    outline: 1px solid red;
-
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
@@ -93,6 +47,37 @@ img {
     margin-bottom: 30px;
 }
 
+
+/*section-title*/
+.section-title {
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 15px 0;
+    line-height: 0.65;
+    position: relative;
+    text-transform: capitalize;
+}
+/*section-title end*/
+
+
+/*section-block*/
+.section-block {
+    padding: 30px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+    margin-bottom: 30px;
+}
+
+.section-block__title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 30px;
+}
+
+/*section-block end*/
+
+
+/*sidebar*/
 .sidebar {
     width: 24%;
     overflow-x: hidden;
@@ -100,10 +85,10 @@ img {
     box-shadow: 0 10px 40px 0 rgba(1, 1, 1, 0.1);
 }
 
-.sidebar .profile {
+.profile {
     padding: 80px 0 0;
     position: relative;
-    margin-bottom: 40px;
+    text-align: center;
 }
 
 .profile__site-name {
@@ -118,41 +103,56 @@ img {
     text-align: center;
 }
 
-.sidebar .profile-image {
+.profile-image {
     padding: 0 20px;
 }
 
-.sidebar .profile-image > img {
+.profile-image > img {
     width: 100%;
     height: auto;
     display: block;
 }
 
-.sidebar .profile-name {
+.profile-name {
     padding: 35px 0;
     background-color: #ffffff;
     box-shadow: 0 10px 40px 15px rgba(1, 1, 1, 0.1);
 }
 
-.sidebar .profile-name h1.user-name {
+.profile-name__title {
     font-size: 34px;
     line-height: 40px;
-    margin-bottom: 10px;
-    font-family: 'Merienda', cursive;
     padding: 0 20px;
+    margin: 0 0 10px;
 }
 
-.sidebar .discription {
-    margin-bottom: 50px;
+.profile-discription {
     padding: 50px 35px 50px;
     border-top: 1px solid #f0f0f0;
     border-bottom: 1px solid #f0f0f0;
 }
 
-/* right-side-body
-.................................................. */
+.profile-btns {
+    padding: 15px;
+}
+.profile-btns a {
+    display: block;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    border: none;
+    background: #2196f3;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.profile-btns a:last-child {
+    margin-bottom: 0;
+}
 
-/* - 3 - fixed-left/right side body end */
+
+/*sidebar end*/
 
 /*header*/
 
@@ -186,8 +186,8 @@ img {
     white-space: nowrap;
     display: block;
     text-align: center;
-    text-transform: capitalize;
     padding: 15px 0;
+    text-decoration: none;
 }
 
 .topmenu__link--active {
@@ -196,6 +196,7 @@ img {
 }
 
 /*header end*/
+
 
 /*footer*/
 .footer-section {

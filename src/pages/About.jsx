@@ -8,7 +8,7 @@ function About() {
             <div className='section-block'>
                 <h3 className="section-block__title">Навыки</h3>
 
-                <div className="">
+                <div>
                     Навыки
                 </div>
             </div>
@@ -16,15 +16,31 @@ function About() {
             <div className='section-block'>
                 <h3 className="section-block__title">Образование</h3>
 
-                <div className="">
+                <div>
                     Образование
+                </div>
+            </div>
+
+            <div className='section-block'>
+                <h3 className="section-block__title">Курсы и тренинги</h3>
+
+                <div>
+                    Курсы и тренинги
+                </div>
+            </div>
+
+            <div className='section-block'>
+                <h3 className="section-block__title">Сертификаты</h3>
+
+                <div>
+                    Сертификаты
                 </div>
             </div>
 
             <div className='section-block'>
                 <h3 className="section-block__title">Опыт работы</h3>
 
-                <div className="">
+                <div>
                     Опыт работы
                 </div>
             </div>
