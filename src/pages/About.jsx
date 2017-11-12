@@ -8,8 +8,23 @@ function About() {
             <div className='section-block'>
                 <h3 className="section-block__title">Навыки</h3>
 
-                <div>
-                    Навыки
+                <div className='about-skills'>
+                    <ul className='about-skills__list'>
+                        <li className='about-skills__item'>HTML</li>
+                        <li className='about-skills__item'>HTML5</li>
+                        <li className='about-skills__item'>Pug / Jade</li>
+                        <li className='about-skills__item'>CSS</li>
+                        <li className='about-skills__item'>CSS3</li>
+                        <li className='about-skills__item'>Кроссбраузерная верстка</li>
+                        <li className='about-skills__item'>Адаптивная верстка</li>
+                        <li className='about-skills__item'>Табличная верстка</li>
+                        <li className='about-skills__item'>Bootstrap</li>
+                        <li className='about-skills__item'>JavaScript</li>
+                        <li className='about-skills__item'>jQuery</li>
+                        <li className='about-skills__item'>React</li>
+                        <li className='about-skills__item'>Git</li>
+                        <li className='about-skills__item'>Adobe Photoshop</li>
+                    </ul>
                 </div>
             </div>
 
