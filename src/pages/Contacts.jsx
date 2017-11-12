@@ -8,34 +8,38 @@ function Contacts() {
             <div className='contact-wrap'>
                 <div className="contact-left">
                     <div className="contact-item">
-                        <h3>Телефон</h3>
+                        <h3 className='contact-wrap__title'>Телефон</h3>
                         <p>
-                            <span>Мобильный.</span>+7 925 0492607
+                            <span>Мобильный: </span>
+                            <strong>+7 925 0492607</strong>
                         </p>
                         <p>
-                            <span>Skype</span>termin05
+                            <span>Skype: </span>
+                            <strong>termin05</strong>
                         </p>
                     </div>
 
                     <div className="contact-item">
-                        <h3>email</h3>
+                        <h3 className='contact-wrap__title'>email</h3>
                         <p>shoma.alisultanov@yandex.ru</p>
                         <p>a_shoma@mail.ru</p>
                     </div>
                 </div>
 
                 <form className="contact-right">
-                    <h3>Напиши мне</h3>
+                    <div className="contact-item">
+                        <h3 className='contact-wrap__title'>Написать письмо</h3>
 
-                    <input type="text"/>
+                        <input type="text" className='contact-input' placeholder='Ваше имя'/>
 
-                    <input type="email"/>
+                        <input type="email" className='contact-input' placeholder='Ваш email'/>
 
-                    <input type="text"/>
+                        <input type="text" className='contact-input' placeholder='Тема письма'/>
 
-                    <textarea/>
+                        <textarea className='contact-textarea' placeholder='Текст сообщения...'/>
 
-                    <button>Отправить</button>
+                        <button className='contact-submit'>Отправить</button>
+                    </div>
                 </form>
             </div>
         </section>

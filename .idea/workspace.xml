@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aad2581c-fe09-46b0-9b13-f0232c921720" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Content.jsx" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/About.jsx" afterPath="$PROJECT_DIR$/src/pages/About.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Contacts.jsx" afterPath="$PROJECT_DIR$/src/pages/Contacts.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Home.jsx" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Portfolio.jsx" afterPath="$PROJECT_DIR$/src/pages/Portfolio.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Projects.jsx" afterPath="$PROJECT_DIR$/src/pages/Projects.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Services.jsx" afterPath="$PROJECT_DIR$/src/pages/Services.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Testomonials.jsx" afterPath="$PROJECT_DIR$/src/pages/Testomonials.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style.css" afterPath="$PROJECT_DIR$/src/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,21 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Home.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/Home.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="78" lean-forward="false" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="25" column="60" lean-forward="false" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+            <state relative-caret-position="287">
+              <caret line="31" column="64" lean-forward="true" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -47,13 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Contacts.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Contacts.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="38" column="94" lean-forward="false" selection-start-line="38" selection-start-column="94" selection-end-line="38" selection-end-column="94" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+            <state relative-caret-position="279">
+              <caret line="86" column="23" lean-forward="false" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
               <folding>
-                <element signature="e#2007#2185#0" expanded="false" />
+                <element signature="e#2014#2192#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -63,7 +56,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.fixed-left-side-body</find>
       <find>PROFESSIONAL SKILLS</find>
       <find>My Portfolio</find>
       <find>Education</find>
@@ -93,6 +85,7 @@
       <find>fixed-left-side-body</find>
       <find>aboutme-section</find>
       <find>my-portfolio-section</find>
+      <find>conte</find>
     </findStrings>
     <replaceStrings>
       <replace>className</replace>
@@ -135,14 +128,14 @@
         <option value="$PROJECT_DIR$/src/App.jsx" />
         <option value="$PROJECT_DIR$/src/components/Topmenuitem.jsx" />
         <option value="$PROJECT_DIR$/src/components/Header.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Contacts.jsx" />
-        <option value="$PROJECT_DIR$/src/style.css" />
         <option value="$PROJECT_DIR$/src/pages/Testomonials.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Projects.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Portfolio.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Services.jsx" />
         <option value="$PROJECT_DIR$/src/pages/About.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Home.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Contacts.jsx" />
+        <option value="$PROJECT_DIR$/src/style.css" />
       </list>
     </option>
   </component>
@@ -271,7 +264,7 @@
       <option name="presentableId" value="Default" />
       <updated>1510162359033</updated>
       <workItem from="1510162360401" duration="13515000" />
-      <workItem from="1510422831836" duration="8688000" />
+      <workItem from="1510422831836" duration="9464000" />
     </task>
     <task id="LOCAL-00001" summary="добавил верстку">
       <created>1510162648612</created>
@@ -336,17 +329,24 @@
       <option name="project" value="LOCAL" />
       <updated>1510487762776</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="поправил заголовочную часть блоков">
+      <created>1510488360057</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1510488360057</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22203000" />
+    <option name="totallyTimeSpent" value="22979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3076369" sideWeight="0.48393574" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3076369" sideWeight="0.48393574" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -385,7 +385,8 @@
     <MESSAGE value="чистка проекта от лишнего" />
     <MESSAGE value="поправил структуру страницы контакты" />
     <MESSAGE value="рефакторинг шапки" />
-    <option name="LAST_COMMIT_MESSAGE" value="рефакторинг шапки" />
+    <MESSAGE value="поправил заголовочную часть блоков" />
+    <option name="LAST_COMMIT_MESSAGE" value="поправил заголовочную часть блоков" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -601,14 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Contacts.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Testomonials.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -641,16 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
-          <folding>
-            <element signature="e#2007#2185#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/About.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -659,21 +642,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="78" lean-forward="false" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="25" column="60" lean-forward="false" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+        <state relative-caret-position="287">
+          <caret line="31" column="64" lean-forward="true" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Home.jsx">
+    <entry file="file://$PROJECT_DIR$/src/pages/Contacts.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="78" lean-forward="false" selection-start-line="6" selection-start-column="78" selection-end-line="6" selection-end-column="78" />
+        <state relative-caret-position="332">
+          <caret line="38" column="94" lean-forward="false" selection-start-line="38" selection-start-column="94" selection-end-line="38" selection-end-column="94" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="86" column="23" lean-forward="false" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+          <folding>
+            <element signature="e#2014#2192#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
