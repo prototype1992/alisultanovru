@@ -2,7 +2,7 @@ import React from 'react';
 
 function Sidebar() {
     return (
-        <div className="fixed-left-side-body">
+        <div className="sidebar">
             <div className="profile">
 
                 <h1 className="profile__site-name">Alisultanov.ru</h1>
@@ -12,7 +12,7 @@ function Sidebar() {
                 </div>
 
                 <div className="profile-name center-align">
-                    <h1 className="user-name">Alisultanov Shamil</h1>
+                    <h2 className="user-name">Alisultanov Shamil</h2>
                     <p>
                         <span className="photoshop-color">Frontend Developer</span> in Leomax Group
                     </p>
@@ -56,16 +56,16 @@ function Sidebar() {
                     </li>
                 </ul>
 
-                {/*<div className="discription clearfix">*/}
-                    {/*<h2 className="title mb-30">what's in my mind</h2>*/}
-                    {/*<p>*/}
-                        {/*We can develop and design anything beyond your ima gination. About our work, we don’t*/}
-                        {/*say anything bec*/}
-                        {/*ause our work speaks. For more, you can ask our clie nts and they will tell you how much*/}
-                        {/*satisfied they*/}
-                        {/*are with our services. So, what are you waiting for?*/}
-                    {/*</p>*/}
-                {/*</div>*/}
+                <div className="discription">
+                    <h2 className="title">what's in my mind</h2>
+                    <p>
+                        We can develop and design anything beyond your ima gination. About our work, we don’t
+                        say anything bec
+                        ause our work speaks. For more, you can ask our clie nts and they will tell you how much
+                        satisfied they
+                        are with our services. So, what are you waiting for?
+                    </p>
+                </div>
             </div>
         </div>
     );

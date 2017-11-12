@@ -7,7 +7,6 @@ function Testomonials() {
 
             <div className="Section-title">
                 <h2>
-                    <i className="fa fa-quote-left"/>
                     Отзывы
                 </h2>
             </div>

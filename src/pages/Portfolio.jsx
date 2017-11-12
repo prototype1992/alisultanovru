@@ -5,9 +5,8 @@ function Portfolio() {
         <section className="my-portfolio-section sec-p100-bg-bs mb-30 clearfix"
                  id="portfolio">
 
-            <div className="Section-title">
+            <div className="section-title">
                 <h2>
-                    <i className="fa fa-briefcase" aria-hidden="true"/>
                     Портфолио
                 </h2>
             </div>

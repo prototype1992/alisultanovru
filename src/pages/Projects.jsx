@@ -1,13 +1,13 @@
 import React from 'react';
 
-function Services() {
+function Projects() {
     return (
-        <section>
+        <section className="">
             <div className="Section-title">
-                <h2>Услуги</h2>
+                <h2>Проекты</h2>
             </div>
         </section>
     );
 }
 
-export default Services;
+export default Projects;

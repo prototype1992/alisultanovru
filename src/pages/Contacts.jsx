@@ -2,11 +2,10 @@ import React from 'react';
 
 function Contacts() {
     return (
-        <section className="contact-me-section sec-p100-bg-bs mb-30 clearfix" id="contact">
+        <section className="contact-me-section clearfix" id="contact">
 
             <div className="Section-title">
                 <h2>
-                    <i className="fa fa-envelope-o" aria-hidden="true"/>
                     Контакты
                 </h2>
             </div>
@@ -16,16 +15,13 @@ function Contacts() {
                     <div className="contact-left">
 
                         <div className="cont-item phone">
-                            <h2 className="title mb-30">phone</h2>
+                            <h2 className="title mb-30">Телефон</h2>
                             <div className="cont-numbers">
                                 <p>
-                                    <span>Mob.</span>+0 123456789
+                                    <span>Мобильный.</span>+7 925 0492607
                                 </p>
                                 <p>
-                                    <span>Landline</span>+0 123456789
-                                </p>
-                                <p>
-                                    <span>Skype</span>webstrot
+                                    <span>Skype</span>termin05
                                 </p>
                             </div>
                         </div>
@@ -33,16 +29,8 @@ function Contacts() {
                         <div className="cont-item email">
                             <h2 className="title mb-30">email</h2>
                             <div className="cont-numbers">
-                                <p>support@example.com</p>
-                                <p>support@example.com</p>
-                            </div>
-                        </div>
-
-                        <div className="cont-item address">
-                            <h2 className="title mb-30">address</h2>
-                            <div className="cont-numbers">
-                                <p>Street 110-B Kalani Bag, Dewas, M.P. INDIA</p>
-                                <p><a href="" className="photoshop-color">https:example.com</a></p>
+                                <p>shoma.alisultanov@yandex.ru</p>
+                                <p>a_shoma@mail.ru</p>
                             </div>
                         </div>
 

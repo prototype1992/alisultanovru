@@ -2,122 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aad2581c-fe09-46b0-9b13-f0232c921720" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/shamil.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/asset-manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/service-worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/css/main.788b8b1d.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/css/main.788b8b1d.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/js/main.5d634891.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/js/main.5d634891.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Footer.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/Services.jsx" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/css/owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/css/owl.theme.default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/images/Hello_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/images/akshay1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/images/akshay2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/books/angular-in-action.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/books/fullstack-react.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/books/learning-javascript.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/books/learning-react.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/books/ng-book-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/books/pro-angular.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/books/pro-react.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/books/secrets-of-the-javascript-ninja.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/books/understanding-es6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/topics/angular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/topics/javascript.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/img/topics/react.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Pages.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/Card.jsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/верстка/assets/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/верстка/assets/css/owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/верстка/assets/css/owl.theme.default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/верстка/assets/css/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/верстка/assets/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/верстка/assets/images/Hello_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/верстка/assets/images/akshay1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/верстка/assets/images/akshay2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/верстка/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/css/style.css" afterPath="$PROJECT_DIR$/src/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/pages/About.jsx" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/build/assets/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/css/materialize.css" afterPath="$PROJECT_DIR$/build/assets/css/materialize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/css/reset.css" afterPath="$PROJECT_DIR$/build/assets/css/reset.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/build/assets/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/build/assets/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/build/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/build/assets/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/build/assets/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Bold.eot" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Bold.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Bold.eot?" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Bold.eot?" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Bold.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Bold.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Bold.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Light.eot" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Light.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Light.eot?" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Light.eot?" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Light.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Light.woff" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Light.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Light.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Medium.eot" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Medium.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Medium.eot?" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Medium.eot?" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Medium.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Medium.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Medium.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Regular.eot" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Regular.eot?" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Regular.eot?" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Thin.eot" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Thin.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Thin.eot?" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Thin.eot?" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Thin.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Thin.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/fonts/roboto/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Thin.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/brand/brand1.png" afterPath="$PROJECT_DIR$/build/assets/images/brand/brand1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/brand/brand2.png" afterPath="$PROJECT_DIR$/build/assets/images/brand/brand2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/brand/brand3.png" afterPath="$PROJECT_DIR$/build/assets/images/brand/brand3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/brand/brand4.png" afterPath="$PROJECT_DIR$/build/assets/images/brand/brand4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/brand/brand5.png" afterPath="$PROJECT_DIR$/build/assets/images/brand/brand5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/news/news1.jpg" afterPath="$PROJECT_DIR$/build/assets/images/news/news1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/news/news2.jpg" afterPath="$PROJECT_DIR$/build/assets/images/news/news2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/news/news3.jpg" afterPath="$PROJECT_DIR$/build/assets/images/news/news3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/portfolio/img-1.jpg" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/portfolio/img-2.jpg" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/portfolio/img-3.jpg" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/portfolio/img-4.jpg" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/portfolio/img-5.jpg" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/portfolio/img-6.jpg" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/testomonial/testomonial-img1.jpg" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/testomonial/testomonial-img2.jpg" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/testomonial/testomonial-img3.jpg" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/testomonial/testomonial-img4.jpg" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/images/testomonial/testomonial-img5.jpg" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/js/circle-progress.js" afterPath="$PROJECT_DIR$/build/assets/js/circle-progress.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/js/custom.js" afterPath="$PROJECT_DIR$/build/assets/js/custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/js/isotope.pkgd.min.js" afterPath="$PROJECT_DIR$/build/assets/js/isotope.pkgd.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/js/jquery-3.1.1.min.js" afterPath="$PROJECT_DIR$/build/assets/js/jquery-3.1.1.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/js/materialize.min.js" afterPath="$PROJECT_DIR$/build/assets/js/materialize.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/build/assets/js/owl.carousel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/верстка/assets/js/smoothscroll.js" afterPath="$PROJECT_DIR$/build/assets/js/smoothscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Topmenuitem.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/About.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/Projects.jsx" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/asset-manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/css/materialize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Bold.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Light.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Medium.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Regular.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Thin.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/brand/brand1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/brand/brand2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/brand/brand3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/brand/brand4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/brand/brand5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/news/news1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/news/news2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/news/news3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/js/circle-progress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/js/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/js/isotope.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/js/jquery-3.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/js/materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/js/smoothscroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/shamil.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/service-worker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/css/main.788b8b1d.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/css/main.788b8b1d.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/js/main.5d634891.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/js/main.5d634891.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/css/materialize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/js/circle-progress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/js/custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/js/isotope.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/js/jquery-3.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/js/materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/js/smoothscroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/Blog.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/Education.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/MySkill.jsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pages/Workexperience.jsx" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/materialize.css" afterPath="$PROJECT_DIR$/public/assets/css/materialize.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.jsx" afterPath="$PROJECT_DIR$/src/App.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Sidebar.jsx" afterPath="$PROJECT_DIR$/src/components/Sidebar.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Toolbar.jsx" afterPath="$PROJECT_DIR$/src/components/Toolbar.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Blog.jsx" afterPath="$PROJECT_DIR$/src/pages/Blog.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Contacts.jsx" afterPath="$PROJECT_DIR$/src/pages/Contacts.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Education.jsx" afterPath="$PROJECT_DIR$/src/pages/Education.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/MySkill.jsx" afterPath="$PROJECT_DIR$/src/pages/MySkill.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Home.jsx" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/NotFound.jsx" afterPath="$PROJECT_DIR$/src/pages/NotFound.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Portfolio.jsx" afterPath="$PROJECT_DIR$/src/pages/Portfolio.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Services.jsx" afterPath="$PROJECT_DIR$/src/pages/Services.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Testomonials.jsx" afterPath="$PROJECT_DIR$/src/pages/Testomonials.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Workexperience.jsx" afterPath="$PROJECT_DIR$/src/pages/Workexperience.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style.css" afterPath="$PROJECT_DIR$/src/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -131,58 +110,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Home.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Home.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-              <folding>
-                <element signature="e#2582#5056#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Toolbar.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Toolbar.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="149" lean-forward="false" selection-start-line="19" selection-start-column="149" selection-end-line="19" selection-end-column="149" />
+            <state relative-caret-position="441">
+              <caret line="28" column="67" lean-forward="false" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Services.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Services.jsx">
+      <file leaf-file-name="Portfolio.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Portfolio.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="285">
+              <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="342" column="53" lean-forward="false" selection-start-line="342" selection-start-column="53" selection-end-line="342" selection-end-column="53" />
+              <folding>
+                <element signature="e#789#874#0" expanded="false" />
+                <element signature="e#893#1054#0" expanded="false" />
+                <element signature="e#1079#1129#0" expanded="false" />
+                <element signature="e#1150#1275#0" expanded="false" />
+                <element signature="e#3388#3566#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,10 +152,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>class</find>
-      <find>alternative-menu</find>
-      <find>§</find>
-      <find>&lt;!--</find>
       <find>.fixed-left-side-body</find>
       <find>PROFESSIONAL SKILLS</find>
       <find>My Portfolio</find>
@@ -213,9 +170,18 @@
       <find>.header-section nav.main-nav ul &gt; li</find>
       <find>nav ul li</find>
       <find>.header-section nav.main-nav {</find>
-      <find>.sec-p100-bg-bs</find>
       <find>.fixed-left-side-body .profile</find>
       <find>.fixed-left-side-body .profile-name</find>
+      <find>Section-title</find>
+      <find>.sec-p100-bg-bs</find>
+      <find>ADWARD WINS</find>
+      <find>contact-me-section</find>
+      <find>latest-news-section</find>
+      <find>success</find>
+      <find>success-child-left</find>
+      <find>fixed-left-side-body</find>
+      <find>aboutme-section</find>
+      <find>my-portfolio-section</find>
     </findStrings>
     <replaceStrings>
       <replace>className</replace>
@@ -234,7 +200,6 @@
         <option value="$PROJECT_DIR$/верстка/assets/css/font-awesome.min.css" />
         <option value="$PROJECT_DIR$/верстка/index.html" />
         <option value="$PROJECT_DIR$/src/components/Sidenav.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Home.jsx" />
         <option value="$PROJECT_DIR$/src/Page.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Latestnews.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Contact.jsx" />
@@ -245,23 +210,27 @@
         <option value="$PROJECT_DIR$/build/assets/css/style.css" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/Footer.jsx" />
-        <option value="$PROJECT_DIR$/public/assets/css/materialize.css" />
-        <option value="$PROJECT_DIR$/src/components/Sidebar.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Contacts.jsx" />
         <option value="$PROJECT_DIR$/public/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/src/pages/Testomonials.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Workexperience.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Portfolio.jsx" />
         <option value="$PROJECT_DIR$/src/pages/MySkill.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Education.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Blog.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/About.jsx" />
         <option value="$PROJECT_DIR$/src/Pages.jsx" />
-        <option value="$PROJECT_DIR$/src/style.css" />
-        <option value="$PROJECT_DIR$/src/pages/Services.jsx" />
-        <option value="$PROJECT_DIR$/src/App.jsx" />
-        <option value="$PROJECT_DIR$/src/components/Toolbar.jsx" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Topmenuitem.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Projects.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Toolbar.jsx" />
+        <option value="$PROJECT_DIR$/src/App.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Sidebar.jsx" />
+        <option value="$PROJECT_DIR$/public/assets/css/materialize.css" />
+        <option value="$PROJECT_DIR$/src/pages/Contacts.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/NotFound.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Testomonials.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Home.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/About.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Services.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Portfolio.jsx" />
+        <option value="$PROJECT_DIR$/src/style.css" />
       </list>
     </option>
   </component>
@@ -308,7 +277,18 @@
             <path>
               <item name="alisultanovru" type="b2602c69:ProjectViewProjectNode" />
               <item name="alisultanovru" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="alisultanovru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alisultanovru" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="alisultanovru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alisultanovru" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="alisultanovru" type="b2602c69:ProjectViewProjectNode" />
@@ -390,7 +370,7 @@
       <option name="presentableId" value="Default" />
       <updated>1510162359033</updated>
       <workItem from="1510162360401" duration="13515000" />
-      <workItem from="1510422831836" duration="267000" />
+      <workItem from="1510422831836" duration="6786000" />
     </task>
     <task id="LOCAL-00001" summary="добавил верстку">
       <created>1510162648612</created>
@@ -427,23 +407,29 @@
       <option name="project" value="LOCAL" />
       <updated>1510249222514</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="правки">
+      <created>1510423948768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1510423948768</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13782000" />
+    <option name="totallyTimeSpent" value="20301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3076369" sideWeight="0.49264705" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3076369" sideWeight="0.48393574" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3859433" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2446959" sideWeight="0.50735295" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3076369" sideWeight="0.5160643" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -472,41 +458,19 @@
     <MESSAGE value="сделал разбиение по страницам 2" />
     <MESSAGE value="сделал роутинг страниц" />
     <MESSAGE value="удалил файл респонсив" />
-    <option name="LAST_COMMIT_MESSAGE" value="удалил файл респонсив" />
+    <MESSAGE value="правки" />
+    <option name="LAST_COMMIT_MESSAGE" value="правки" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/верстка/assets/css/font-awesome.min.css" />
     <entry file="file://$PROJECT_DIR$/public/assets/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -515,9 +479,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="92" column="18" lean-forward="false" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
-          <folding>
-            <element signature="e#2582#5056#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -535,6 +497,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="1043" column="1" lean-forward="false" selection-start-line="1043" selection-start-column="1" selection-end-line="1043" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -543,13 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -570,13 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/css/materialize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="4118" column="1" lean-forward="false" selection-start-line="4118" selection-start-column="1" selection-end-line="4118" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Footer.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -584,87 +533,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/NotFound.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Blog.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Contacts.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Portfolio.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Education.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Workexperience.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Testomonials.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Sidebar.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1474">
-          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/css/style.css" />
     <entry file="file://$PROJECT_DIR$/build/assets/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/src/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="471" column="53" lean-forward="false" selection-start-line="471" selection-start-column="53" selection-end-line="471" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/MySkill.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Services.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/images/akshay1.png" />
     <entry file="file://$PROJECT_DIR$/public/assets/images/akshay2.png" />
     <entry file="file://$PROJECT_DIR$/public/assets/images/Hello_logo.png" />
@@ -688,16 +558,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Toolbar.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="149" lean-forward="false" selection-start-line="19" selection-start-column="149" selection-end-line="19" selection-end-column="149" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Pages.jsx" />
     <entry file="file://$PROJECT_DIR$/build/asset-manifest.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -706,36 +566,192 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/build/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/MySkill.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="-124">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Education.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Workexperience.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Topmenuitem.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/src/components/Toolbar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="67" lean-forward="false" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Blog.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/css/materialize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/NotFound.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Contacts.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Projects.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Sidebar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="53" lean-forward="false" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+          <folding>
+            <element signature="e#674#1897#0" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Home.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <element signature="e#2582#5056#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="95">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/About.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Services.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="441">
+          <caret line="28" column="67" lean-forward="false" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Portfolio.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Testomonials.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="113" column="27" lean-forward="false" selection-start-line="113" selection-start-column="27" selection-end-line="113" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/js/materialize.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="7" column="31094" lean-forward="false" selection-start-line="7" selection-start-column="31094" selection-end-line="7" selection-end-column="31094" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="342" column="53" lean-forward="false" selection-start-line="342" selection-start-column="53" selection-end-line="342" selection-end-column="53" />
+          <folding>
+            <element signature="e#789#874#0" expanded="false" />
+            <element signature="e#893#1054#0" expanded="false" />
+            <element signature="e#1079#1129#0" expanded="false" />
+            <element signature="e#1150#1275#0" expanded="false" />
+            <element signature="e#3388#3566#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
