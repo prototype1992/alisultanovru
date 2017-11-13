@@ -2,16 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aad2581c-fe09-46b0-9b13-f0232c921720" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/css/normalize.css" afterPath="$PROJECT_DIR$/src/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/style.css" afterPath="$PROJECT_DIR$/src/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/shamil.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/asset-manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/service-worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/css/main.5c9f84d5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/css/main.5c9f84d5.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/js/main.143a7883.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/js/main.143a7883.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Footer.jsx" afterPath="$PROJECT_DIR$/src/components/Footer.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/About.jsx" afterPath="$PROJECT_DIR$/src/pages/About.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Contacts.jsx" afterPath="$PROJECT_DIR$/src/pages/Contacts.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/Home.jsx" afterPath="$PROJECT_DIR$/src/pages/Home.jsx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -121,10 +133,10 @@
         <option value="$PROJECT_DIR$/src/components/Footer.jsx" />
         <option value="$PROJECT_DIR$/src/style.css" />
         <option value="$PROJECT_DIR$/build/index.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/pages/Contacts.jsx" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -234,8 +246,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="npm.start" />
-        <item index="1" class="java.lang.String" itemvalue="npm.build" />
+        <item index="0" class="java.lang.String" itemvalue="npm.build" />
+        <item index="1" class="java.lang.String" itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +264,7 @@
       <workItem from="1510162360401" duration="13515000" />
       <workItem from="1510422831836" duration="13398000" />
       <workItem from="1510496112852" duration="2086000" />
-      <workItem from="1510578868321" duration="65000" />
+      <workItem from="1510578868321" duration="525000" />
     </task>
     <task id="LOCAL-00001" summary="добавил верстку">
       <created>1510162648612</created>
@@ -359,11 +371,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510494590615</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="change routing">
+      <created>1510578941700</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1510578941700</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29064000" />
+    <option name="totallyTimeSpent" value="29524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -413,7 +432,8 @@
     <MESSAGE value="сделал разметку навыков в странице ОБО МНЕ" />
     <MESSAGE value="верстка навыков" />
     <MESSAGE value="сделал прижатие футера к низу сайта" />
-    <option name="LAST_COMMIT_MESSAGE" value="сделал прижатие футера к низу сайта" />
+    <MESSAGE value="change routing" />
+    <option name="LAST_COMMIT_MESSAGE" value="change routing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -577,6 +597,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -584,6 +605,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -591,13 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -644,10 +659,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
