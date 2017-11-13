@@ -2,9 +2,9 @@ import React from 'react';
 
 function Footer({ children }) {
     return (
-        <footer id="footer-section" className="footer-section clearfix">
+        <footer className="page-footer">
             <p>
-                © 2006-2017 <a href="/" className="photoshop-color">Alisultanov.ru</a>
+                © 2006-2017 <a href="/">Alisultanov.ru</a>
                 - Все права не защитить.
             </p>
 
