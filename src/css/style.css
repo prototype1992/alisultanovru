@@ -116,7 +116,7 @@ body {
 }
 
 .profile-name {
-    padding: 35px 0;
+    padding: 25px 0;
     background-color: #ffffff;
     box-shadow: 0 10px 40px 15px rgba(1, 1, 1, 0.1);
 }
@@ -190,6 +190,11 @@ body {
     text-align: center;
     padding: 15px 0;
     text-decoration: none;
+    transition: all .5s;
+}
+.topmenu__link:hover {
+    background: #2196f3;
+    color: #ffffff;
 }
 
 .topmenu__link--active {
@@ -247,7 +252,7 @@ body {
     margin-bottom: 20px;
 }
 
-.contact-input {
+input, .contact-input {
     display: block;
     border: 1px solid rgba(0, 0, 0, 0.3);
     padding: 0 15px;
@@ -260,8 +265,11 @@ body {
     margin-bottom: 10px;
     font-size: 16px;
 }
+input:focus, .contact-input:focus {
+    border-color: #2196f3;
+}
 
-.contact-textarea {
+textarea, .contact-textarea {
     display: block;
     border: 1px solid rgba(0, 0, 0, 0.3);
     padding: 15px;
@@ -277,6 +285,9 @@ body {
     min-height: 108px;
     max-height: 200px;
 }
+textarea:focus, .contact-textarea:focus {
+    border-color: #2196f3;
+}
 
 .contact-submit {
     display: block;
@@ -286,6 +297,7 @@ body {
     background: #2196f3;
     color: #ffffff;
     font-size: 20px;
+    cursor: pointer;
 }
 /*contact page end*/
 
@@ -309,3 +321,13 @@ body {
 }
 /*about page end*/
 
+.map-block {}
+
+
+/*my-music*/
+.my-music {}
+.my-music audio {
+    display: block;
+    width: 100%;
+}
+/*my-music end*/

@@ -21,8 +21,9 @@ function Sidebar() {
                 </div>
 
                 <div className="profile-btns">
+                    <Link to="/login">Авторизация</Link>
                     <Link to="/contacts">Написать письмо</Link>
-                    <Link to="/portfolio">Посмотреть работы</Link>
+                    {/*<Link to="/portfolio">Посмотреть работы</Link>*/}
                 </div>
 
                 {/*<div className="profile-discription">*/}

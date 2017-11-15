@@ -2,28 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aad2581c-fe09-46b0-9b13-f0232c921720" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/portfolio/img-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/img/shamil.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/asset-manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/service-worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/css/main.5c9f84d5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/css/main.5c9f84d5.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/js/main.143a7883.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/js/main.143a7883.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/audio/don_omar_feat_tego_calderon_bandoleros.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/Journey.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/Login.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/pages/Music.jsx" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/asset-manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/portfolio/img-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/images/testomonial/testomonial-img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/shamil.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/service-worker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/css/main.5c9f84d5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/css/main.5c9f84d5.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/js/main.143a7883.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/js/main.143a7883.js.map" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.jsx" afterPath="$PROJECT_DIR$/src/App.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Header.jsx" afterPath="$PROJECT_DIR$/src/components/Header.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Sidebar.jsx" afterPath="$PROJECT_DIR$/src/components/Sidebar.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/css/style.css" afterPath="$PROJECT_DIR$/src/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,14 +48,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="209">
+              <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Music.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Music.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="715">
+              <caret line="329" column="19" lean-forward="false" selection-start-line="329" selection-start-column="19" selection-end-line="329" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sidebar.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Sidebar.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+              <folding>
+                <marker date="1510739437000" expanded="true" signature="866:870" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Header.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Header.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,7 +116,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>About Me</find>
       <find>rale</find>
       <find>header-section nav.main-nav ul &gt; li</find>
       <find>@media</find>
@@ -86,6 +145,7 @@
       <find>content__inner</find>
       <find>section-title</find>
       <find>stat</find>
+      <find>contact-input</find>
     </findStrings>
     <replaceStrings>
       <replace>className</replace>
@@ -119,15 +179,12 @@
         <option value="$PROJECT_DIR$/src/components/Toolbar.jsx" />
         <option value="$PROJECT_DIR$/public/assets/css/materialize.css" />
         <option value="$PROJECT_DIR$/src/pages/NotFound.jsx" />
-        <option value="$PROJECT_DIR$/src/App.jsx" />
         <option value="$PROJECT_DIR$/src/components/Topmenuitem.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Testomonials.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Projects.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Portfolio.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Services.jsx" />
         <option value="$PROJECT_DIR$/public/assets/css/normalize.css" />
-        <option value="$PROJECT_DIR$/src/components/Sidebar.jsx" />
-        <option value="$PROJECT_DIR$/src/components/Header.jsx" />
         <option value="$PROJECT_DIR$/src/pages/About.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Home.jsx" />
         <option value="$PROJECT_DIR$/src/components/Footer.jsx" />
@@ -137,6 +194,14 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/pages/Login.jsx" />
+        <option value="$PROJECT_DIR$/src/data/geoobject.json" />
+        <option value="$PROJECT_DIR$/src/pages/Journey.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Header.jsx" />
+        <option value="$PROJECT_DIR$/src/App.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Music.jsx" />
+        <option value="$PROJECT_DIR$/src/css/style.css" />
+        <option value="$PROJECT_DIR$/src/components/Sidebar.jsx" />
       </list>
     </option>
   </component>
@@ -181,14 +246,31 @@
             <path>
               <item name="alisultanovru" type="b2602c69:ProjectViewProjectNode" />
               <item name="alisultanovru" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="alisultanovru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alisultanovru" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="audio" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="alisultanovru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alisultanovru" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="alisultanovru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alisultanovru" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,13 +282,14 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/audio" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/public/img" />
       <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,8 +329,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="npm.build" />
-        <item index="1" class="java.lang.String" itemvalue="npm.start" />
+        <item index="0" class="java.lang.String" itemvalue="npm.start" />
+        <item index="1" class="java.lang.String" itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +347,9 @@
       <workItem from="1510162360401" duration="13515000" />
       <workItem from="1510422831836" duration="13398000" />
       <workItem from="1510496112852" duration="2086000" />
-      <workItem from="1510578868321" duration="525000" />
+      <workItem from="1510578868321" duration="1247000" />
+      <workItem from="1510641765220" duration="286000" />
+      <workItem from="1510642243096" duration="4869000" />
     </task>
     <task id="LOCAL-00001" summary="добавил верстку">
       <created>1510162648612</created>
@@ -378,26 +463,33 @@
       <option name="project" value="LOCAL" />
       <updated>1510578941700</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add build folder">
+      <created>1510596603092</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1510596603092</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29524000" />
+    <option name="totallyTimeSpent" value="35401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31268013" sideWeight="0.47242647" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32420748" sideWeight="0.459926" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31268013" sideWeight="0.5275735" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3859433" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32420748" sideWeight="0.540074" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31268013" sideWeight="0.5203453" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31268013" sideWeight="0.5203453" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -433,19 +525,14 @@
     <MESSAGE value="верстка навыков" />
     <MESSAGE value="сделал прижатие футера к низу сайта" />
     <MESSAGE value="change routing" />
-    <option name="LAST_COMMIT_MESSAGE" value="change routing" />
+    <MESSAGE value="add build folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="add build folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/Card.jsx" />
-    <entry file="file://$PROJECT_DIR$/public/assets/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/build/assets/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/public/assets/images/akshay1.png" />
-    <entry file="file://$PROJECT_DIR$/public/assets/images/akshay2.png" />
-    <entry file="file://$PROJECT_DIR$/public/assets/images/Hello_logo.png" />
     <entry file="file://$PROJECT_DIR$/public/assets/images/brand/brand1.png" />
     <entry file="file://$PROJECT_DIR$/public/assets/images/news/news1.jpg" />
     <entry file="file://$PROJECT_DIR$/src/Pages.jsx" />
@@ -500,34 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Services.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Sidebar.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="23" column="63" lean-forward="false" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -597,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,20 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Contacts.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -667,12 +711,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/Services.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="190">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/css/main.5c9f84d5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5876" lean-forward="false" selection-start-line="0" selection-start-column="5876" selection-end-line="0" selection-end-column="5876" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Contacts.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="65" column="28" lean-forward="false" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-yandex-maps/main/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/geoobject.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Journey.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#114#609#0" expanded="false" />
+            <element signature="e#1099#3007#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Login.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Music.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="329" column="19" lean-forward="false" selection-start-line="329" selection-start-column="19" selection-end-line="329" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Sidebar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <marker date="1510739437000" expanded="true" signature="866:870" ph="..." />
           </folding>
         </state>
       </provider>

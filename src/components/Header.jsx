@@ -19,14 +19,17 @@ function Toolbar() {
                     <li className='topmenu__item'>
                         <Topmenuitem to='/portfolio'>Портфолио</Topmenuitem>
                     </li>
-                    <li className='topmenu__item'>
-                        <Topmenuitem to='/testomonials'>Отзывы</Topmenuitem>
-                    </li>
-                    <li className='topmenu__item'>
-                        <Topmenuitem to='/projects'>Проекты</Topmenuitem>
-                    </li>
+                    {/*<li className='topmenu__item'>*/}
+                        {/*<Topmenuitem to='/testomonials'>Отзывы</Topmenuitem>*/}
+                    {/*</li>*/}
                     <li className='topmenu__item'>
                         <Topmenuitem to='/contacts'>Контакты</Topmenuitem>
+                    </li>
+                    <li className='topmenu__item'>
+                        <Topmenuitem to='/music'>Моя музыка</Topmenuitem>
+                    </li>
+                    <li className='topmenu__item'>
+                        <Topmenuitem to='/journey'>Путешествие</Topmenuitem>
                     </li>
                 </ul>
             </nav>

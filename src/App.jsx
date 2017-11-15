@@ -12,6 +12,9 @@ import Testomonials from './pages/Testomonials';
 import Projects from './pages/Projects';
 import Contacts from './pages/Contacts';
 import Services from './pages/Services';
+import Journey from './pages/Journey';
+import Login from './pages/Login';
+import Music from "./pages/Music";
 
 class App extends Component {
     render() {
@@ -30,6 +33,9 @@ class App extends Component {
                         <Route path='/projects' component={Projects} />
                         <Route path='/testomonials' component={Testomonials} />
                         <Route path='/contacts' component={Contacts} />
+                        <Route path='/login' component={Login} />
+                        <Route path='/journey' component={Journey} />
+                        <Route path='/music' component={Music} />
                     </div>
 
                     <Footer/>
